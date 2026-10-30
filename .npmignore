@@ -1,0 +1,17 @@
+# Source, tests & build scripts (only dist/, README.md, LICENSE are published)
+src/
+tests/
+scripts/
+examples/
+tsconfig.json
+
+# Never publish credentials or cached tokens to npm
+.deepseek-tokens.json
+*.tokens.json
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+*.tgz
+

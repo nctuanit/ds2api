@@ -1,0 +1,19 @@
+# Dependencies & Build Output
+node_modules/
+dist/
+dist-cjs-tmp/
+
+# Secrets, Credentials & Cached DeepSeek Tokens
+.deepseek-tokens.json
+*.tokens.json
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+
+# OS & IDE files
+.DS_Store
+Thumbs.db
+*.log
+

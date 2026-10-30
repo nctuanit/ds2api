@@ -1,0 +1,14 @@
+# Build output & dependencies
+node_modules/
+dist/
+dist-cjs-tmp/
+
+# Lockfiles
+package-lock.json
+bun.lockb
+
+# Secrets & cached tokens
+.env
+.env.*
+.deepseek-tokens.json
+*.tokens.json
