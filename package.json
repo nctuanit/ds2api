@@ -1,6 +1,6 @@
 {
   "name": "ds2api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Universal DeepSeek-to-OpenAI SDK (ported from CJackHwang/ds2api) for Node.js, Bun, and Cloudflare Workers with full OpenAI SDK method compatibility and native pure-JS PoW (DeepSeekHashV1).",
   "keywords": [
     "deepseek",
